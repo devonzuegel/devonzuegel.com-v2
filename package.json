@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devonzuegel/devonzuegel.com-v2/issues"
   },
-  "homepage": "https://github.com/devonzuegel/devonzuegel.com-v2#readme"
+  "homepage": "https://github.com/devonzuegel/devonzuegel.com-v2#readme",
+  "dependencies": {
+    "ghost": "^1.18.0"
+  }
 }
